@@ -15,7 +15,7 @@ This was made as a response to Facebook being down for 6 hours on October 5th, t
 - As a user, I want to be able to save my progress
 - As a user, I want to bee able to load my existing progress
 
-##Phase 4: Task 2
+##Phase 4: Task 2 Logging Application
 
 Fri Dec 03 04:31:29 PST 2021
 Follower Added.
