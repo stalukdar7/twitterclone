@@ -2,7 +2,7 @@
 
 
 
-The application provides users to send messages publically.
+The application provides users to send messages publicly.
 
 The application also processes different account data such as followers, following and a count
 
